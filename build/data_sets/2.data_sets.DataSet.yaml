@@ -1,0 +1,6 @@
+- name: Overall Equipment Effectiveness Use Case
+  externalId: ds_uc_oee
+  description: Dataset for the OEE (Overall Equipment Effectiveness) use case.
+  writeProtected: false
+  metadata:
+    origin: cognite-toolkit
